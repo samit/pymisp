@@ -1,0 +1,14 @@
+[{
+	"email":"sdahal@test.org",
+    "org_id":1,
+    "role_id":1,
+    "autoalert":1
+}, 
+{
+  "email":"maaiil@test.org",
+    "org_id":1,
+    "role_id":2,
+    "autoalert":1
+}
+  
+]

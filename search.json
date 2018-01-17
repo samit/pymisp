@@ -1,0 +1,8 @@
+[{
+	"param":"Parameter to search (e.g. category, org, etc.)",
+	"search":"String to search",
+	"attributes":"Search attributes instead of events",
+	"quiet":"Only display URLs to MISP",
+	"output":"Output file"
+
+}]

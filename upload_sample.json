@@ -1,0 +1,11 @@
+{
+	"filepaths":"File or directory of files to upload", 
+	"event_id":"Not supplying an event ID will cause MISP to create a single new event for all of the POSTed malware samples", 
+	"distribution":"The distribution setting used for the attributes and for the newly created event, if relevant. [0-3].", 
+	"to_ids":"You can flag all attributes created during the transaction to be marked as \"to_ids\" or not.", 
+	"category":"The category that will be assigned to the uploaded samples. Valid options are: Payload delivery, Artifacts dropped, Payload Installation, External Analysis.",
+	 "comment":"Comment for the uploaded file(s).", 
+	 "info":"Used to populate the event info field if no event ID supplied", 
+	 "analysis":"The analysis level of the newly created event, if applicatble. [0-2]", 
+	 "threat_level_id":"The threat level ID of the newly created event, if applicatble. [1-4]"
+}

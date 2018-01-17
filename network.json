@@ -1,0 +1,13 @@
+{
+	"network_ip_src":"", 
+	"network_ip_dst":"", 
+	"network_hostname":"", 
+	"network_domain":"",
+    "app_hostname":"", 
+	"app_domain":"",
+	"app_ip_src":"", 
+	"app_ip_dst":"", 
+	"app_ids_only":"", 
+	"app_printcomment":"",
+	"app_netflow":""
+}
